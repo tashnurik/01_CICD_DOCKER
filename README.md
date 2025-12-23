@@ -1,5 +1,4 @@
 # Project 01 — CI/CD Docker Build & Push
-# Project 01 — CI/CD Docker Build & Push
 
 ## Overview
 This project demonstrates a basic CI/CD pipeline that builds, tags, and pushes a Docker image automatically using GitHub Actions.
